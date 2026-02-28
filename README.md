@@ -1,57 +1,43 @@
-# Hello, I'm Jaskeerat Singh 👋
+Hello, I’m Jaskeerat Singh
 
-### Creative Front-End Developer & Web Designer
+Creative Front-End Developer and Web Designer
 
-I build responsive, user-friendly websites and digital solutions that solve real problems.  
-Specializing in full-stack development with **HTML5, CSS3, JavaScript, PHP, and MySQL**.  
-Currently completing my **Digital Media & IT diploma at NAIT** with a passion for creating exceptional web experiences.
+I build responsive, user-friendly websites and digital solutions that solve real problems. I specialize in full-stack development using HTML5, CSS3, JavaScript, PHP, and MySQL. I am currently completing my Digital Media and IT diploma at NAIT, where I continue to develop my technical skills and practical experience.
 
----
+About Me
 
-## 💻 About Me
+Web Designer and Developer focused on building digital solutions that matter.
 
-**Web Designer & Developer | Building Digital Solutions That Matter**
+My interest in web development started in high school when I created my first interactive webpage in a computer science class. Seeing how code could turn into something functional and visual motivated me to continue learning and improving. Since then, I have worked on academic and personal projects that have strengthened my understanding of front-end and back-end development.
 
-> "Great websites combine clean code, intuitive design, and purposeful functionality."
+Over the past year, I have gained hands-on experience with HTML5, CSS3, JavaScript, PHP, and MySQL. I enjoy solving problems, writing clean code, and designing websites that are both visually clear and easy to use. I believe strong websites balance functionality, structure, and user experience.
 
-I'm a passionate web designer and developer currently completing my Digital Media & IT diploma at NAIT. My journey into web development began in a high school computer science class when I built my first interactive webpage. Watching code transform into a functional website sparked an interest that has shaped my career path ever since.
+My goal is to grow as a freelance web developer and IT consultant, working with small businesses and entrepreneurs to create responsive websites and practical digital solutions that support their goals.
 
-Over the past year, I’ve strengthened my skills in HTML5, CSS3, JavaScript, PHP, and MySQL through hands-on academic and personal projects. I enjoy transforming complex problems into clean, user-friendly solutions that balance performance and design.
+Technical Skills
 
-My goal is to establish myself as a trusted freelance web developer and IT consultant, helping small businesses and entrepreneurs create responsive websites and customized digital solutions.
+HTML5
+CSS3
+JavaScript
+PHP
+MySQL
+Git and GitHub
+Responsive Web Design
 
----
+What I Value
 
-## 🛠 Technical Skills
+User-centered design — Every website should prioritize the user’s experience and needs.
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- PHP  
-- MySQL  
-- Git & GitHub  
-- Responsive Web Design  
+Clean and maintainable code — Well-structured code ensures long-term stability and scalability.
 
----
+Continuous learning — Technology changes quickly, and ongoing learning is essential.
 
-## 🚀 What I Believe In
+Collaboration and communication — Clear communication leads to stronger project outcomes.
 
-**User-Centered Design**  
-Every website should prioritize the end user's experience and needs.
+Contact
 
-**Clean, Maintainable Code**  
-Well-structured code ensures long-term success and scalability.
+Portfolio: https://jswebsolutions.ca
 
-**Continuous Learning**  
-Technology evolves rapidly — staying current is essential.
+Email: jaskeerat1701@gmail.com
 
-**Collaboration & Communication**  
-Great solutions come from understanding client goals and working effectively within a team.
-
----
-
-## 📫 Connect With Me
-
-🌐 Portfolio: https://jswebsolutions.ca  
-📧 Email: yourprofessionalemail@email.com  
-💼 LinkedIn: (add later if you want)
+LinkedIn: https://www.linkedin.com/in/jaskeerat-singh-7493b9247/
