@@ -36,7 +36,7 @@ Collaboration and communication — Clear communication leads to stronger projec
 
 Contact
 
-Portfolio: https://jswebsolutions.ca
+Portfolio: https://jswebdev.tech/
 
 Email: jaskeerat1701@gmail.com
 
